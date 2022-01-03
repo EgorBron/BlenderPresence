@@ -16,7 +16,7 @@ git clone https://https://github.com/EgorBron/BlenderPresence.git
 
 ## Quick examples
 ### Open "Scripting" layout and create new file in "Text editor".
-#### If you want standart RPC:
+#### If you want standard RPC:
 ```python
 import blenderpresence
 import bpy # blender python api
