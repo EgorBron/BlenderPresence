@@ -37,7 +37,7 @@ rpc = blenderpresence.BlenderPresence(bpy)
 
 rpc.config(
     details = "Working at {scene} scene", 
-    state = "Size: {scenetSize}, {objectCount} objects", 
+    state = "Size: {sceneSize}, {objectCount} objects", 
     large_image="{modeCode}", 
     large_image_text="{mode}"
 )
