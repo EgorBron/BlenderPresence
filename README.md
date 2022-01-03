@@ -59,7 +59,7 @@ def my_codes(mode: str):
         return 'none'
 
 rpc.config(
-    mode_code_processor = my_codes, # will be added in future, sorry :(
+    mode_code_processor = my_codes,
     logo_code = 'blender_logo' # name of blender logo picture in "Art Assets" tab
 )
 
