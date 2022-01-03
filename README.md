@@ -11,7 +11,7 @@ git clone https://https://github.com/EgorBron/BlenderPresence.git
 
 ### Install dependencies
 ```
-"%blender path%/3.0/python/bin/python.exe" -m pip install pypresence
+"%blender path%/3.0/python/bin/python.exe" -m pip install pypresence jinja2
 ```
 
 ## Quick examples
