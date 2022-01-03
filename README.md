@@ -1,4 +1,4 @@
-# BlenderPresence - a fork of JabkaPresence for adding Rich Presence to Blender
+# BlenderPresence - library for adding Rich Presence to Blender
 ### Blender 3.0 presence with customizable info
 
 ## How to use:
